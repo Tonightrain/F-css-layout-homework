@@ -29,24 +29,24 @@ ul {
   align-items: center;
 }
 
-.aside1{
+.asideAbout{
   float: left;
   width: 180px;
   margin-left: 80px;
 }
 
-.section1{
+.about{
   background-color: #f2f4f7;
   padding: 10px;
   margin-top: 15px;
 }
 
-.section2 ul{
+.archives ul{
   text-decoration: underline;
   color: rebeccapurple;
 }
 
-.aside2{
+.asideForm{
   margin-right: 80px;
   width: 210px;
   height: 180px;
@@ -63,13 +63,13 @@ ul {
   transform: translate(600%, -50%);
 }
 
-.input1,.input2{
+.inputEmail,.inputPasswd{
   height: 30px;
   border-radius: 3px;
   border: 1px solid #c8cccf;
 }
 
-.aside2 button{
+.asideForm button{
   width: 170px;
   height: 30px;
   font-size: 18px;
@@ -90,12 +90,12 @@ main{
   margin-bottom: 10px;
 }
 
-main section{
+main article{
   border: 1px solid #c8cccf;
   width: 360px;
 }
 
-main section p{
+main article p{
   font-size: 12px;
 }
 
